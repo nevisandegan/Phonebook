@@ -1,0 +1,22 @@
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.exe.config
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.exe
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.pdb
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csprojAssemblyReference.cache
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.Form1.resources
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.Properties.Resources.resources
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csproj.GenerateResource.cache
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csproj.CoreCompileInputs.cache
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.exe
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.pdb
+C:\Users\nevis\Desktop\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.AddOrEdit.resources
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.exe.config
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.exe
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\bin\Debug\Prozhe DB.pdb
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csprojAssemblyReference.cache
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.AddOrEdit.resources
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.Form1.resources
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe_DB.Properties.Resources.resources
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csproj.GenerateResource.cache
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.csproj.CoreCompileInputs.cache
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.exe
+D:\Uni\دانشگاه ترم 7\پایگاه داده ها\پروژه پایگاه داده دفترچه تلفن\Prozhe DB\Prozhe DB\obj\Debug\Prozhe DB.pdb
